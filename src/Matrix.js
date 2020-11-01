@@ -5,7 +5,7 @@ import ColorSelector from './ColorSelector.js'
 
 export default class Matrix extends Component {
 
-  constructor() {
+  constructor(props) {
     super()
   }
 
